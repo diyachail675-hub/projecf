@@ -1,2 +1,2 @@
-# projecf
+# project
 my first git project
